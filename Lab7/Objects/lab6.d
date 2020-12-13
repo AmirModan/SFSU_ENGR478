@@ -1,0 +1,12 @@
+.\objects\lab6.o: Lab6.c
+.\objects\lab6.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lab6.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lab6.o: Lab6.h
+.\objects\lab6.o: ..\..\..\..\inc/hw_types.h
+.\objects\lab6.o: ..\..\..\..\inc/hw_memmap.h
+.\objects\lab6.o: ..\..\..\..\inc/hw_gpio.h
+.\objects\lab6.o: ..\..\..\..\driverlib/sysctl.h
+.\objects\lab6.o: ..\..\..\..\driverlib/pin_map.h
+.\objects\lab6.o: ..\..\..\..\driverlib/rom_map.h
+.\objects\lab6.o: ..\..\..\..\driverlib/gpio.h
+.\objects\lab6.o: ..\..\..\..\inc/tm4c123gh6pm.h

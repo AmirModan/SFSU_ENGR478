@@ -1,0 +1,12 @@
+.\lab10.o: Lab10.c
+.\lab10.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\lab10.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\lab10.o: ..\..\..\..\inc/hw_memmap.h
+.\lab10.o: ..\..\..\..\inc/hw_types.h
+.\lab10.o: ..\..\..\..\driverlib/debug.h
+.\lab10.o: ..\..\..\..\driverlib/sysctl.h
+.\lab10.o: ..\..\..\..\driverlib/adc.h
+.\lab10.o: ..\..\..\..\driverlib/interrupt.h
+.\lab10.o: ..\..\..\..\driverlib/gpio.h
+.\lab10.o: ..\..\..\..\inc/tm4c123gh6pm.h
+.\lab10.o: Lab10.h
